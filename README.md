@@ -41,7 +41,12 @@ Part 2: Visualization
 
 <img width="789" alt="Screenshot 2024-02-25 at 12 14 10 PM" src="https://github.com/hatkiet/Project-1-Red-Team/assets/154276115/fbb49882-e0d3-4632-96b7-ab1446a376c8">
 
-Over a period of 30 years, we observed different genres of movies perform in the industry. In the 1990s, Drama genre outperformed all other genres while Comedy had a steady climb in revenue. However, in the 2000s, Drama took a hit and experienced a steep fall off, while Comedy continued to steadily rise. In 2006, we also saw a significant jump in revenue for Action movies. The 2010s marked the beginning of Action movies taking a dominant spot in the genres. Overall, we observed a steady increase in revenue for all genres, from $1-2 billion range in 1990 to $7-10 billion in 2019. 
+Over a period of 30 years, we observed different genres of movies perform in the industry. In the 1990s, Drama outperformed all other genres while Comedy had a steady climb in revenue. However, in the 2000s, Drama took a hit and experienced a steep fall off, while Comedy continued to steadily rise. In 2006, we also saw a significant jump in revenue for Action movies. The 2010s marked the beginning of Action movies taking a dominant spot in the genres. Overall, we observed a steady increase in revenue for all genres, from $1-2 billion range in 1990 to $7-10 billion in 2019. 
+o	Action: 1619.25%
+o	Adventure: 2379.73%
+o	Comedy: 677.35%
+o	Thriller: 1326.75%
+o	Drama: 849.76%
 
 
 Part 3: How does disposable personal income influence the popularity of different movie genres? 
