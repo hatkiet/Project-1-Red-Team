@@ -1,5 +1,7 @@
-# Project-1-Red-Team
-Title: Popularity of Movie Genres Based on Box Office Revenue Over Three Decades (1990 - 2020) in the United States
+Research question: How did popularity in movie genres shift over three decades ranging from 1990- 2019?
+•	How did the revenue total shift over the years? 
+•	Did any specific Genres have a more dominant presence than others?
+•	What impact did social and economic influences have on movies over 30 years? Did we see a correlation between the revenue and the years economy?
 
 Research expectations:
 
