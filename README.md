@@ -23,19 +23,19 @@ Part 2: Visualization
 
 <img width="1328" alt="Screenshot 2024-02-25 at 12 13 04 PM" src="https://github.com/hatkiet/Project-1-Red-Team/assets/154276115/8b864c2e-7cbd-4f04-93cb-43fdbb821229">
 
-Discussion: ??? 
+
 
 [2] Box plot of Revenue by Genres
 
 <img width="1080" alt="Screenshot 2024-02-25 at 12 13 23 PM" src="https://github.com/hatkiet/Project-1-Red-Team/assets/154276115/f4985e4f-331b-4265-9536-f25f0ce4a3b3">
 
-Discussion: ???
+
 
 [3] Movies Distribution by Genres
 
 <img width="865" alt="Screenshot 2024-02-25 at 12 13 32 PM" src="https://github.com/hatkiet/Project-1-Red-Team/assets/154276115/f4646153-4b84-4d44-9f3f-7ca8165c6a05">
 
-Discussion: ???
+
 
 [4] Revenue over Time for Top Five Genres
 
@@ -43,7 +43,7 @@ Discussion: ???
 
 <img width="789" alt="Screenshot 2024-02-25 at 12 14 10 PM" src="https://github.com/hatkiet/Project-1-Red-Team/assets/154276115/fbb49882-e0d3-4632-96b7-ab1446a376c8">
 
-Discussion: Over a period of 30 years, we observed different genres of movies perform in the industry. In the 1990s, Drama genre outperformed all other genres while Comedy had a steady climb in revenue. However, in the 2000s, Drama took a hit and experienced a steep fall off, while Comedy continued to steadily rise. In 2006, we also saw a significant jump in revenue for Action movies. The 2010s marked the beginning of Action movies taking a dominant spot in the genres. Overall, we observed a steady increase in revenue for all genres, from $1-2 billion range in 1990 to $7-10 billion in 2019. 
+Over a period of 30 years, we observed different genres of movies perform in the industry. In the 1990s, Drama genre outperformed all other genres while Comedy had a steady climb in revenue. However, in the 2000s, Drama took a hit and experienced a steep fall off, while Comedy continued to steadily rise. In 2006, we also saw a significant jump in revenue for Action movies. The 2010s marked the beginning of Action movies taking a dominant spot in the genres. Overall, we observed a steady increase in revenue for all genres, from $1-2 billion range in 1990 to $7-10 billion in 2019. 
 
 
 Part 3: How does disposable personal income influence the popularity of different movie genres? 
