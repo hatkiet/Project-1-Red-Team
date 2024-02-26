@@ -12,9 +12,7 @@ As previously alluded to, we anticipate external factors such as economic constr
 
 Part 1: Cleaning the data
 
-Over the course of this research, we expect to see changeability in the movie genres over the course of three decades beginning in 1990. While we expect to see an overall consistent growth in revenue over all genres, we also anticipate the data to be a bit volatile due to financial and social influences. 
-Our expectation is Action and adventure films will establish a strong grasp on revenue and growth due to potential for blockbuster, high end returns as well as general broad appeal. 
-As previously alluded to, we anticipate external factors such as economic constraints and social events to impact revenue over the court of the three decades and contribute to the peaks and valleys we will see in revenue. 
+After obtaining our selected data from Kaggle, we began our process of extracting the necessary information to perform our study and removing anything deemed unrequired. This allowed us to concise our information into a more focused and precise dataset. Our focus was information related to the movies title, release year, genres, financials and language. Language was required because our study was focused on English movies only. After reviewing the financial information, we decided to only review movies that result in positive revenue. After extracting what we considered to be our core data, our next step was to clean it up and remove anything that would cause issues in our code outcomes such as special characters and duplicate data points. After formatting our data in a manner we needed, the last step was to normalize the dollar values of the three decades by normalizing datapoints based on Consumer Price Index (CPI).  Our final dataset ranges from 1990-2019 and was normalized against the CPI to ensure a consistent and accurate representation that accounted for inflation and other economic variables to allow a complete and accurate review of the movie genres over the timeframe. 
 
 
 Part 2: Visualization
