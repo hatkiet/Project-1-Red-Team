@@ -1,7 +1,7 @@
 Research question: How did popularity in movie genres shift over three decades ranging from 1990- 2019?
 •	How did the revenue total shift over the years? 
 •	Did any specific Genres have a more dominant presence than others?
-•	What impact did social and economic influences have on movies over 30 years? Did we see a correlation between the revenue and the years economy?
+•	What impact did social and economic influences have on movies over 30 years? Did disposable income have an impact on revenue for any genres over this time period?
 
 Research expectations:
 
