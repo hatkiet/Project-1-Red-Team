@@ -3,15 +3,17 @@ Title: Popularity of Movie Genres Based on Box Office Revenue Over Three Decades
 
 Research expectations:
 
-In this project, we expect to observe changes in the popularity of movie genres over the past three decades, based on the box office revenue. Although we anticipate an overall upward trend in revenue, there may be occasional dips and drops. 
-In terms of genre dominance, we predict that action and adventure films will continue to remain popular due to their broad appeal and potential for producing blockbuster hits.
-Furthermore, we believe that economic conditions during different periods may have influenced moviegoers' preferences, leading to fluctuations in the popularity of certain genres.
+Over the course of this research, we expect to see changeability in the movie genres over the course of three decades beginning in 1990. While we expect to see an overall consistent growth in revenue over all genres, we also anticipate the data to be a bit volatile due to financial and social influences. 
+Our expectation is Action and adventure films will establish a strong grasp on revenue and growth due to potential for blockbuster, high end returns as well as general broad appeal. 
+As previously alluded to, we anticipate external factors such as economic constraints and social events to impact revenue over the court of the three decades and contribute to the peaks and valleys we will see in revenue. 
+
 
 Part 1: Cleaning the data
 
-We obtained our movie data from Kaggle, but it needed cleaning before we could analyze it. Our first step was to remove unnecessary information such as overviews, crew details, original titles, status, and country, in order to trim the data. We also renamed the column headers to make them more user-friendly.
-Next, we removed duplicate movies with the same name and release year. We cleaned up the genre column by removing any weird characters and excluded non-applicable dates from the score, budget, and revenue columns. Finally, we adjusted the dollar value based on CPI.
-Our analysis focused solely on English movies released within three decades (1990-2020).
+Over the course of this research, we expect to see changeability in the movie genres over the course of three decades beginning in 1990. While we expect to see an overall consistent growth in revenue over all genres, we also anticipate the data to be a bit volatile due to financial and social influences. 
+Our expectation is Action and adventure films will establish a strong grasp on revenue and growth due to potential for blockbuster, high end returns as well as general broad appeal. 
+As previously alluded to, we anticipate external factors such as economic constraints and social events to impact revenue over the court of the three decades and contribute to the peaks and valleys we will see in revenue. 
+
 
 Part 2: Visualization
 
